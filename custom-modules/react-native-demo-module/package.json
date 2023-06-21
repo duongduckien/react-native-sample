@@ -1,0 +1,12 @@
+{
+  "name": "react-native-demo-module",
+  "version": "1.0.0",
+  "description": "React Native Demo Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/oliveteam-developers/react-native-demo-module",
+  "author": "https://github.com/oliveteam-developers",
+  "license": "ISC"
+}
